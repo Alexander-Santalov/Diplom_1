@@ -27,7 +27,6 @@ public class BurgerTest {
         burger = new Burger();
     }
 
-
     @Test
     public void setBurgerBunsTest() {
         burger.setBuns(bun);
